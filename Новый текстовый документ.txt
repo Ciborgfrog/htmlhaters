@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+<style>
+header {
+	display: block;
+	background: #DDA0DD;
+	height: 405px;
+	text-align: center;
+}
+aside {
+	background:#f0f0f0;
+	padding: 220px;
+	width: 10px;
+	float: right;
+}
+aside2 {
+	background:#f0f0f0;
+	padding: 220px;
+	width: 10px;
+	float: left;
+}
+
+article {
+	margin-right: 240px;
+	display: block;
+}
+footer {
+	position: fixed;
+	left : 0; 
+	bottom: 0;
+	padding: 10px;
+	background:#808000;
+	color:#800000;
+	width:100%;
+
+</style>
+  </head>
+  <body>
+    <header><h1>Шапка</h1></header>
+    <aside2>
+      Боковая колонка левая (сайдбар)
+    </aside2>
+    <aside>
+      Боковая колонка правая (сайдбар)
+    </aside>
+    <footer>
+      Подвал
+    </footer>
+  </body>
+</html>
