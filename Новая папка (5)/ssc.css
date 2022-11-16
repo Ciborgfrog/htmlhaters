@@ -1,0 +1,262 @@
+/*img*/
+.I1
+{
+  position: absolute;
+  top: 0px;
+  left: 1145px;
+}
+.I2
+{
+  position: absolute;
+  top: 30px;
+  left: 100px;
+
+}
+.I3
+{
+  position: absolute;
+  top: 30px;
+  left: 1600px;
+}
+.I4
+{
+  position: absolute;
+  top: 328px;
+  left: 270px;
+}
+.I5
+{
+  position: absolute;
+  top: 500px;
+  left: 1000px;
+}
+.I6
+{
+  position: absolute;
+  top: 1500px;
+  left: 500px;
+}
+.I7
+{
+  position: absolute;
+  top: 1500px;
+  left: 800px;
+}
+.I8
+{
+  position: absolute;
+  top: 1500px;
+  left: 1100px;
+}
+.I9
+{
+  position: absolute;
+  top: 1500px;
+  left: 1400px;
+}
+/*/img*/
+/*txt*/
+.Text
+{
+  position: absolute;
+  font-family: 'Mukta', sans-serif;
+  font-size: 25px;
+  top:30px;
+  left :300px;
+  color: black;
+  text-decoration-line:underline;
+  text-decoration-color:Red;
+}
+.Text2
+{
+  position: absolute;
+  font-family: 'Mukta', sans-serif;
+  font-size: 25px;
+  top:30px;
+  left :500px;
+  color: black;
+}
+.Text3
+{
+  position: absolute;
+  font-family: 'Mukta', sans-serif;
+  font-size: 25px;
+  top:30px;
+  left :700px;
+  color: black;
+}
+.Text4
+{
+  position: absolute;
+  font-family: 'Mukta', sans-serif;
+  font-size: 25px;
+  font-weight:500;
+  top:300px;
+  left :100px;
+  color:red;
+}
+.Text5
+{
+  position: absolute;
+  font-family: 'Mukta', sans-serif;
+  font-size: 90px;
+  font-weight:500;
+  top:270px;
+  left :100px;
+  color: black;
+}
+.Text6
+{
+  position: absolute;
+  font-family: 'Mukta', sans-serif;
+  font-size: 90px;
+  font-weight:500;
+  top:380px;
+  left :100px;
+  color: black;
+}
+.Text7
+{
+  position: absolute;
+  font-family: 'Mukta', sans-serif;
+  font-size: 25px;
+  top:600px;
+  left :100px;
+  color: black;
+}
+.Text7
+{
+  position: absolute;
+  font-family: 'Mukta', sans-serif;
+  font-size: 25px;
+  top:600px;
+  left :100px;
+  color: black;
+}
+.Text8
+{
+  position: absolute;
+  font-family: 'Mukta', sans-serif;
+  color: red;
+  font-size: 35px;
+  font-weight:500;
+  top:1100px;
+  left :800px;
+}
+.Text9
+{
+  position: absolute;
+  font-family: 'Mukta', sans-serif;
+  font-size: 50px;
+  font-weight:500;
+  top:1150px;
+  left :600px;
+  color: black;
+}
+/*/txt*/
+/*bttns&other featured products*/
+.B1
+{
+  position:absolute;
+  width:170px;
+  border:300px;
+  font-family: 'Mukta', sans-serif;
+  font-weight:500;
+  font-size: 20px;
+  color: White;
+  top:750px;
+  left:120px;
+  border-radius: 35px;
+  background-color: Red;
+  padding: 20px;
+}
+.B2
+{
+  position:absolute;
+  width:170px;
+  border:300px;
+  font-family: 'Mukta', sans-serif;
+  font-weight:500;
+  font-size: 20px;
+  color: Black;
+  top:750px;
+  left:390px;
+  border-style: solid;
+  border-width:thin;
+  border-radius: 35px;
+  border-color:Red;
+  padding: 20px;
+}
+.B3
+{
+  position:absolute;
+  width:200px;
+  height: 250px;
+  border:300px;
+  font-family: 'Mukta', sans-serif;
+  font-weight:500;
+  font-size: 20px;
+  color: Black;
+  top:1500px;
+  left:500px;
+  border-style: solid;
+  border-width:thin;
+  border-radius: 0px;
+  border-color:grey;
+  padding: 20px;
+}
+.B4
+{
+  position:absolute;
+  height: 250px;
+  width:200px;
+  border:300px;
+  font-family: 'Mukta', sans-serif;
+  font-weight:500;
+  font-size: 20px;
+  color: Black;
+  top:1500px;
+  left:800px;
+  border-style: solid;
+  border-width:thin;
+  border-radius: 0px;
+  border-color:grey;
+  padding: 20px;
+}
+.B5
+{
+  position:absolute;
+  height: 250px;
+  width:200px;
+  border:300px;
+  font-family: 'Mukta', sans-serif;
+  font-weight:500;
+  font-size: 20px;
+  color: Black;
+  top:1500px;
+  left:1100px;
+  border-style: solid;
+  border-width:thin;
+  border-radius: 0px;
+  border-color:grey;
+  padding: 20px;
+}
+.B6
+{
+  position:absolute;
+  height: 250px;
+  width:200px;
+  border:300px;
+  font-family: 'Mukta', sans-serif;
+  font-weight:500;
+  font-size: 20px;
+  color: Black;
+  top:1500px;
+  left:1400px;
+  border-style: solid;
+  border-width:thin;
+  border-radius: 0px;
+  border-color:grey;
+  padding: 20px;
+}
+/*/bttns&other featured products*/

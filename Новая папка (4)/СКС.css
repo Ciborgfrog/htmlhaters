@@ -1,0 +1,373 @@
+
+.I1
+{
+  position: absolute;
+  top: 0px;
+  left: 300px;
+  width: 70%;
+}
+.оранж
+{
+  position:absolute;
+  border:400px solid orange;
+  top:0px;
+  left: 1100px;
+}
+.Text
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 100px;
+  font-weight: 600;
+  top:70px;
+  left :100px;
+  color: orange;
+}
+.Text2
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 100px;
+  font-weight: 600;
+  top:200px;
+  left :100px;
+  color:Black;
+}
+.Text3
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 100px;
+  font-weight: 600;
+  top:350px;
+  left :745px;
+  color: orange;
+}
+.Text4
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+  top:15px;
+  left :550px;
+  color: Black;
+}
+.Text5
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+  top:15px;
+  left :700px;
+  color: Black;
+}
+.Text6
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+  top:15px;
+  left :850px;
+  color: Black;
+}
+.I2
+{
+  position: absolute;
+  top: 0px;
+  left: 100px;
+}
+.I3
+{
+  position: absolute;
+  top: 20px;
+  left: 1110px;
+}
+.I4
+{
+  position: absolute;
+  top: 20px;
+  left: 1260px;
+}
+.I5
+{
+  position: absolute;
+  top: 20px;
+  left: 1320px;
+}
+.Text7
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  top:600px;
+  left :100px;
+  color: Black;
+
+}
+.on
+{
+    position:absolute;
+    float:right ;
+    weight: 300px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    color: White;
+    top:730px;
+    left:100px;
+    border-radius: 30px;
+    background-color: orange;
+    padding: 12px;
+}
+.Text8
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 90px;
+  font-weight: 600;
+  top:800px;
+  left :100px;
+  color:Black;
+}
+.I6
+{
+  position: absolute;
+  top: 1050px;
+  left: 100px;
+}
+.I7
+{
+  position: absolute;
+  top: 993px;
+  left: 400px;
+}
+.I8
+{
+  position: absolute;
+  top: 1050px;
+  left: 701px;
+}
+.I9
+{
+  position: absolute;
+  top: 1050px;
+  left: 1002px;
+}
+.I10
+{
+  position: absolute;
+  top: 1500px;
+  left: 100px;
+}
+.I11
+{
+  position: absolute;
+  top: 1493px;
+  left: 400px;
+}
+.I12
+{
+  position: absolute;
+  top: 1467px;
+  left: 700px;
+}
+.I13
+{
+  position: absolute;
+  top: 1507px;
+  left: 1000px;
+}
+.Text9
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 19px;
+  font-weight: 600;
+  top: 1250px;
+  left :100px;
+  color: Black;
+
+}
+.Text10
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  top: 1250px;
+  left :400px;
+  color: Black;
+
+}
+.Text11
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  top: 1250px;
+  left :701px;
+  color: Black;
+  font-weight: 600;
+}
+.Text12
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  top: 1250px;
+  left :1002px;
+  color: Black;
+
+}
+.Text13
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  top: 1710px;
+  left :100px;
+  color: Black;
+  font-weight: 600;
+}
+.Text14
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  top: 1710px;
+  left :400px;
+  color: Black;
+  font-weight: 600;
+}
+.Text15
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  top: 1710px;
+  left :700px;
+  color: Black;
+  font-weight: 600;
+}
+.Text16
+{
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  top: 1710px;
+  left :1000px;
+  color: Black;
+  font-weight: 600;
+}
+.B1
+{
+    position:absolute;
+    float:right ;
+    weight: 500px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: Black;
+    top:1325px;
+    left:290px;
+    border-radius: 12px;
+    background-color: orange;
+    padding: 12px;
+}
+.B2
+{
+    position:absolute;
+    float:right ;
+    weight: 300px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: Black;
+    top:1325px;
+    left:590px;
+    border-radius: 12px;
+    background-color: orange;
+    padding: 12px;
+}
+.B3
+{
+    position:absolute;
+    float:right ;
+    weight: 300px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: Black;
+    top:1325px;
+    left:890px;
+    border-radius: 12px;
+    background-color: orange;
+    padding: 12px;
+}
+.B4
+{
+    position:absolute;
+    float:right ;
+    weight: 300px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: Black;
+    top:1325px;
+    left:1190px;
+    border-radius: 12px;
+    background-color: orange;
+    padding: 12px;
+}
+.B5
+{
+    position:absolute;
+    float:right ;
+    weight: 300px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: Black;
+    top:1785px;
+    left:290px;
+    border-radius: 12px;
+    background-color: orange;
+    padding: 12px;
+}
+.B6
+{
+    position:absolute;
+    float:right ;
+    weight: 300px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: Black;
+    top:1785px;
+    left:590px;
+    border-radius: 12px;
+    background-color: orange;
+    padding: 12px;
+}
+.B7
+{
+    position:absolute;
+    float:right ;
+    weight: 300px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: Black;
+    top:1785px;
+    left:890px;
+    border-radius: 12px;
+    background-color: orange;
+    padding: 12px;
+}
+.B8
+{
+    position:absolute;
+    float:right ;
+    weight: 300px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: Black;
+    top:1785px;
+    left:1190px;
+    border-radius:12px;
+    background-color: orange;
+    padding: 12px;
+}
